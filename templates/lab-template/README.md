@@ -1,4 +1,9 @@
-# LAB-XX — <Title>
+# A###-LAB-## — <Title>
+
+## Assignment Mapping
+- Course: CYSE270
+- Canvas Assignment ID: A###
+- Internal Lab ID: LAB-##
 
 ## Objective
 (1–2 sentences: what you’re proving you can do)
